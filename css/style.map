@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../sass/style.sass"
+	],
+	"sourcesContent": [
+		"h2 {\n    color: red; }\n\n.reasons_block {\n    background-color: red; }\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,EAAE,CAAC;EACC,KAAK,EAAE,GAAG;CAAG;;;AAEjB,AAAA,cAAc,CAAC;EACX,gBAAgB,EAAE,GAAG;CAAG"
+}
